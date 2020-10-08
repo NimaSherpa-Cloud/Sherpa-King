@@ -27,6 +27,6 @@
 }
 /** Assignment*/
 .logo{
-	position: relative;
+	position: absolute;
 	left: 5%;
 }
