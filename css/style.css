@@ -1,0 +1,28 @@
+.move {
+	margin-top: 60px;
+	margin-bottom: 10px;
+}
+.parallax-container{
+	min-height: 280px;
+	height: auto;
+}
+.nav-wrapper{
+	background-color: #1B1B1B;
+}
+.slider .indicators .indicator-item.active{
+	background-color: #1B1B1B;
+}
+
+.icon-burger{
+	color: #1B1B1B;
+}
+.footer-one{
+	background-color: #1f1f1f;
+}
+.footer-two{
+	background-color: #1a1a1a;
+}
+.back{
+	background-color: #1B1B1B;
+}
+/** Assignment*/
