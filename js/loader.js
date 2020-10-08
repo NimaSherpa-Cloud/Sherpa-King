@@ -4,7 +4,8 @@
     $('.sidenav').sidenav();
     $('.parallax').parallax();
     $(".slider").slider({full_width: true});
-  	$(".myreviews").carousel({
+    $('.slider').slider({height:550});
+  	 $(".myreviews").carousel({
   		numVisible: 7,
   		shift: 55,
   		padding: 55,
